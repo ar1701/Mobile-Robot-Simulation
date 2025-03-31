@@ -69,18 +69,22 @@ You can customize various parameters in the `config.yaml` file:
 
 ```
 Mobile-Robot-Simulation/
-├── src/                  # Source code
-├── maps/                 # Environment maps
-├── models/               # Robot models
-├── assets/               # Images, GIFs, and other resources
-├── config/               # Configuration files
-└── examples/             # Example implementations
+├── catkin_ws/             # ROS workspace
+│   ├── src/               # ROS packages source code
+│   ├── build/             # Build directory
+│   └── devel/             # Development space
+├── scripts/               # Utility scripts
+├── launch/                # Launch files
+├── config/                # Configuration files
+├── worlds/                # Simulation world definitions
+├── maps/                  # Environment maps
+├── urdf/                  # Robot model definitions
+├── meshes/                # 3D models for visualization
+├── demo.gif               # Simulation demonstration
+└── README.md              # Project documentation
 ```
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
