@@ -1,0 +1,13 @@
+/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_gazebo/CMakeFiles/uninstall.dir
+/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_gazebo/CMakeFiles/turtlebot3_gazebo_uninstall.dir
+/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_gazebo/CMakeFiles/turtlebot3_drive.dir
+/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_gazebo/CMakeFiles/obstacle1.dir
+/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_gazebo/CMakeFiles/obstacle2.dir
+/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_gazebo/CMakeFiles/obstacles.dir
+/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_gazebo/CMakeFiles/test.dir
+/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_gazebo/CMakeFiles/edit_cache.dir
+/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_gazebo/CMakeFiles/rebuild_cache.dir
+/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_gazebo/CMakeFiles/list_install_components.dir
+/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_gazebo/CMakeFiles/install.dir
+/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_gazebo/CMakeFiles/install/local.dir
+/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_gazebo/CMakeFiles/install/strip.dir

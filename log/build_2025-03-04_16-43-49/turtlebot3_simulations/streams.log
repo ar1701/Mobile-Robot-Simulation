@@ -1,0 +1,24 @@
+[0.014s] Invoking command in '/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_simulations': AMENT_PREFIX_PATH=/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_gazebo:/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_gazebo:/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake --build /home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_simulations -- -j8 -l8
+[0.043s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.260s] -- Configuring done
+[0.264s] -- Generating done
+[0.267s] -- Build files have been written to: /home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_simulations
+[0.294s] Invoked command in '/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_simulations' returned '0': AMENT_PREFIX_PATH=/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_gazebo:/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_gazebo:/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake --build /home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_simulations -- -j8 -l8
+[0.295s] Invoking command in '/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_simulations': AMENT_PREFIX_PATH=/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_gazebo:/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_gazebo:/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake --install /home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_simulations
+[0.304s] -- Install configuration: ""
+[0.304s] -- Up-to-date: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_simulations/share/ament_index/resource_index/package_run_dependencies/turtlebot3_simulations
+[0.304s] -- Up-to-date: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_simulations/share/ament_index/resource_index/parent_prefix_path/turtlebot3_simulations
+[0.304s] -- Up-to-date: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.sh
+[0.305s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.dsv
+[0.305s] -- Up-to-date: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.sh
+[0.305s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.dsv
+[0.305s] -- Up-to-date: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.bash
+[0.305s] -- Up-to-date: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.sh
+[0.306s] -- Up-to-date: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.zsh
+[0.306s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.dsv
+[0.306s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_simulations/share/turtlebot3_simulations/package.dsv
+[0.306s] -- Up-to-date: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_simulations/share/ament_index/resource_index/packages/turtlebot3_simulations
+[0.306s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig.cmake
+[0.306s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig-version.cmake
+[0.306s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_simulations/share/turtlebot3_simulations/package.xml
+[0.310s] Invoked command in '/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_simulations' returned '0': AMENT_PREFIX_PATH=/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_gazebo:/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_gazebo:/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node:/opt/ros/humble /usr/bin/cmake --install /home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_simulations

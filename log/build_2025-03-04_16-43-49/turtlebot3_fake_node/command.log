@@ -1,0 +1,4 @@
+Invoking command in '/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node -- -j8 -l8
+Invoked command in '/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node -- -j8 -l8
+Invoking command in '/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node
+Invoked command in '/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node

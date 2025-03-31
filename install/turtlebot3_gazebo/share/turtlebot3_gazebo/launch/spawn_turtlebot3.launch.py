@@ -1,0 +1,1 @@
+/home/ayush/Desktop/ROS2 /ROS2_NAV2/src/turtlebot3_gazebo/launch/spawn_turtlebot3.launch.py

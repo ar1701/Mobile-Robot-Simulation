@@ -1,0 +1,76 @@
+[0.015s] Invoking command in '/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ayush/Desktop/ROS2 /ROS2_NAV2/src/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node
+[0.172s] -- The C compiler identification is GNU 11.4.0
+[0.287s] -- The CXX compiler identification is GNU 11.4.0
+[0.303s] -- Detecting C compiler ABI info
+[0.383s] -- Detecting C compiler ABI info - done
+[0.392s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.392s] -- Detecting C compile features
+[0.392s] -- Detecting C compile features - done
+[0.397s] -- Detecting CXX compiler ABI info
+[0.494s] -- Detecting CXX compiler ABI info - done
+[0.506s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.507s] -- Detecting CXX compile features
+[0.508s] -- Detecting CXX compile features - done
+[0.521s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.695s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.799s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.849s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.856s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.867s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.885s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.906s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.953s] -- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+[0.978s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[1.033s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.036s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[1.071s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[1.081s] -- Looking for pthread.h
+[1.147s] -- Looking for pthread.h - found
+[1.148s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.221s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.222s] -- Found Threads: TRUE  
+[1.275s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[1.303s] -- Found tf2: 0.25.12 (/opt/ros/humble/share/tf2/cmake)
+[1.317s] -- Found tf2_msgs: 0.25.12 (/opt/ros/humble/share/tf2_msgs/cmake)
+[1.380s] -- Found turtlebot3_msgs: 2.2.3 (/opt/ros/humble/share/turtlebot3_msgs/cmake)
+[1.477s] -- Configuring done
+[1.488s] -- Generating done
+[1.493s] -- Build files have been written to: /home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node
+[1.501s] Invoked command in '/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ayush/Desktop/ROS2 /ROS2_NAV2/src/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node
+[1.503s] Invoking command in '/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node -- -j8 -l8
+[1.551s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_fake_node.dir/src/turtlebot3_fake_node.cpp.o[0m
+[19.184s] [100%] [32m[1mLinking CXX executable turtlebot3_fake_node[0m
+[20.422s] [100%] Built target turtlebot3_fake_node
+[20.444s] Invoked command in '/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node -- -j8 -l8
+[20.461s] Invoking command in '/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node
+[20.476s] -- Install configuration: ""
+[20.476s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[20.483s] -- Set runtime path of "/home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node" to ""
+[20.483s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch
+[20.483s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[20.483s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[20.484s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param
+[20.484s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[20.484s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[20.484s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[20.485s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/include/
+[20.485s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/include//turtlebot3_fake_node
+[20.485s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[20.486s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[20.486s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[20.486s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[20.487s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[20.487s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[20.489s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[20.489s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[20.489s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[20.489s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[20.490s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[20.490s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[20.491s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[20.491s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[20.491s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[20.491s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[20.492s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[20.492s] -- Installing: /home/ayush/Desktop/ROS2 /ROS2_NAV2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[20.496s] Invoked command in '/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node

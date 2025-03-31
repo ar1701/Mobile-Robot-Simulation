@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/ayush/Desktop/ROS2 /ROS2_NAV2/build/turtlebot3_fake_node/turtlebot3_fake_node" "TARGETS" "turtlebot3_fake_node" "DESTINATION" "lib/turtlebot3_fake_node")
